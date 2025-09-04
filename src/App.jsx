@@ -417,7 +417,7 @@ function App() {
                     if (mp3Match) {
                       // Genera nombre de archivo mp3
                       const clean = mp3Match[1].replace(/[^\w\d]/g, "_").replace(/_+/g, "_").replace(/^_+|_+$/g, "");
-                      const mp3File = `/src/assets/${clean}.mp3`;
+                      const mp3File = `/assets/${clean}.mp3`;
                       return (
                         <li key={i} className="mb-2">
                           <span className="me-2">&#9733;</span>
