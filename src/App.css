@@ -1,0 +1,49 @@
+/* Use Montserrat for a sophisticated look, fallback to Oswald */
+/* Use Inter for body, Poppins for headings for a modern, professional look */
+.duolingo-font {
+	font-family: 'Poppins', Arial, sans-serif;
+	letter-spacing: 0.02em;
+}
+body, .text-light, .card-text, .form-control, .lead {
+	font-family: 'Inter', Arial, sans-serif;
+}
+
+/* Card text area with semi-transparent dark background for contrast */
+/* Fix bottom border radius to match card and avoid visual glitch */
+/* Restore subtle white border at the bottom for separation */
+.duolingo-card-body {
+	background: rgba(30, 30, 40, 0.85);
+	border-bottom-left-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+	color: #f8f9fa;
+	border-bottom: 1px solid rgba(255,255,255,0.12);
+	position: relative;
+	z-index: 2;
+}
+
+/* Duolingo-style card animation (bounce/scale, but neutral colors) */
+.duolingo-card {
+
+	transition: transform 0.22s cubic-bezier(.34,1.2,.64,1), box-shadow 0.22s;
+	will-change: transform;
+	animation: duolingoCardIn 0.5s cubic-bezier(.34,1.2,.64,1);
+	}
+	.duolingo-card:hover {
+		transform: scale(1.025) translateY(-2px);
+		box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+	}
+	@keyframes duolingoCardIn {
+		0% {
+			transform: scale(0.96) translateY(12px);
+			opacity: 0;
+		}
+		60% {
+			transform: scale(1.03) translateY(-2px);
+			opacity: 1;
+		}
+		100% {
+			transform: scale(1) translateY(0);
+			opacity: 1;
+		}
+	}
+
