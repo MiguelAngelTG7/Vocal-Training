@@ -150,8 +150,8 @@ function App() {
               'Supe que me Amabas - Marcela Gándara',
               'Mezzosoprano: A3 – A5*',
               'Al Final - Lilly Goodman',
-              'Soprano: C4 – C6*'
-              'Como Dijiste - Christine D’Clario',
+              'Soprano: C4 – C6*',
+              'Como Dijiste - Christine D’Clario'
             ]
           },
           {
