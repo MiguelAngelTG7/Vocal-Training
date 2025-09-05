@@ -141,11 +141,17 @@ function App() {
               'Ese intervalo entre ambas es tu rango vocal.',
               '🎤 Rangos vocales principales',
               'Bajo: E2 – E4*',
+              'Renuevame - Marcos Witt',
               'Barítono: A2 – A4*',
+              'Que Seas mi Universo - Jesús Adrian Romero',
               'Tenor: C3 – B4 (a veces hasta C5)*',
+              'La Única Razón - Danilo Montero',
               'Contralto (Alto femenino): F3 – F5*',
+              'Supe que me Amabas - Marcela Gándara',
               'Mezzosoprano: A3 – A5*',
+              'Al Final - Lilly Goodman',
               'Soprano: C4 – C6*'
+              'Como Dijiste - Christine D’Clario',
             ]
           },
           {
