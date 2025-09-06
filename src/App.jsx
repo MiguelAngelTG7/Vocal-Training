@@ -379,16 +379,13 @@ function App() {
             ]
           },
           {
-            title: 'Sirviendo en Santidad',
-            items: [
-              'Dios es santo y pide santidad en quienes le sirven (1 Pedro 1:15-16). Un ministro de alabanza debe cuidar su corazón, evitando orgullo o rencor; su mente, llenándola de la Palabra (Filipenses 4:8); y su testimonio, viviendo lo que canta.',
-              'Antes de ministrar, si hay pecado o conflicto, es necesario arreglar cuentas con Dios y con los hermanos (Mateo 5:23-24). La técnica y el cuidado vocal son importantes, pero deben estar acompañados de oración, consagración y obediencia.',
-              '“Señor, ¿quién habitará en tu tabernáculo? ¿Quién morará en tu monte santo?” (Salmo 15:1).'
-            ]
-          },
-          {
             title: 'Evaluación Final y Retroalimentación',
             items: [
+              // Sirviendo en Santidad
+              'Dios es santo y pide santidad en quienes le sirven (1 Pedro 1:15-16). Un ministro de alabanza debe cuidar su corazón, evitando orgullo o rencor; su mente, llenándola de la Palabra (Filipenses 4:8); y su testimonio, viviendo lo que canta.',
+              'Antes de ministrar, si hay pecado o conflicto, es necesario arreglar cuentas con Dios y con los hermanos (Mateo 5:23-24). La técnica y el cuidado vocal son importantes, pero deben estar acompañados de oración, consagración y obediencia.',
+              '“Señor, ¿quién habitará en tu tabernáculo? ¿Quién morará en tu monte santo?” (Salmo 15:1).',
+              // Evaluación Final y Retroalimentación
               'Cada alumno dirige una canción completa aplicando lo aprendido.',
               'Feedback grupal y personal del instructor.',
               'Compromisos individuales para seguir creciendo.',
