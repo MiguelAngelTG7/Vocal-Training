@@ -353,48 +353,29 @@ function App() {
             ]
           },
           {
-            title: 'Preparación del Ministro de Alabanza',
+            title: 'Preparación, Interpretación y Trabajo en Equipo',
             items: [
+              // Preparación del Ministro de Alabanza
               'Puntualidad y disciplina: llegar a tiempo para coordinar, orar y calentar.',
               'Oración personal durante la semana: mantener devocionalidad constante (Efesios 5:19).',
               'Humildad y apertura a la corrección: aceptar sugerencias y críticas constructivas.',
-              'Actitud del corazón: cantar para Dios y guiar a la congregación, no para lucirse.'
-            ]
-          },
-          {
-            title: 'Interpretación y Expresión',
-            items: [
+              'Actitud del corazón: cantar para Dios y guiar a la congregación, no para lucirse.',
+              // Interpretación y Expresión
               'Comunicación no verbal: contacto visual, expresiones faciales, lenguaje corporal.',
               'Cantar con intención: alegría en canciones alegres, reverencia en canciones solemnes.',
               'Conexión con la congregación: guiar con seguridad y enfoque.',
-              'Dominio del escenario: vencer miedo y distracciones técnicas.'
-            ]
-          },
-          {
-            title: 'Técnica Escénica y Práctica Integral',
-            items: [
+              'Dominio del escenario: vencer miedo y distracciones técnicas.',
+              // Técnica Escénica y Práctica Integral
               'Uso correcto del micrófono: distancia, ángulo, evitar golpes de aire.',
               'Postura frente al escenario: seguridad, apertura y confianza.',
               'Manejo de la pista musical: no atrasarse, seguir el tempo y estructura.',
               'Selección de canciones: adecuarlas al tema del servicio, no solo a gustos personales.',
-              'Manejo de errores: cómo reaccionar ante fallas del equipo o coros sin perder liderazgo.'
-            ]
-          },
-          {
-            title: 'Trabajo con el Coro y la Banda',
-            items: [
+              'Manejo de errores: cómo reaccionar ante fallas del equipo o coros sin perder liderazgo.',
+              // Trabajo con el Coro y la Banda
               'Dirigir al coro en lugar de dejarse llevar por él.',
               'Coordinar entradas y salidas con claridad.',
               'Escuchar la mezcla musical sin depender excesivamente del retorno visual.',
               'Mantener unidad y equilibrio en la armonía grupal.'
-            ]
-          },
-          {
-            title: 'Dinámicas y Ejercicios Grupales',
-            items: [
-              'Ensayo práctico con pista en grupo.',
-              'Ejercicio de dirección: cada alumno dirige una estrofa y recibe feedback.',
-              'Simulación de escenario con distracciones (micrófono bajo, pista cortada, etc.).'
             ]
           },
           {
