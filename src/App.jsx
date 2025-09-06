@@ -78,16 +78,15 @@ function App() {
         {/* Tarjetas de Día 1 */}
         {[
           {
-            title: 'Devocional Día 1 – Canta con Enfoque',
+            title: 'Devocional Día 1 – En espíritu y en verdad',
             items: [
-              'Texto clave: 1 Corintios 14:15',
+              'Textos clave: 1 Corintios 14:15, Juan 4:24, Colosenses 3:16, Genesis 4:4b',
               '“¿Qué, pues? Cantaré con el espíritu, pero cantaré también con el entendimiento.”',
               'El apóstol Pablo nos recuerda que cantar debe unir espíritu y entendimiento.',
               'Con el espíritu significa abrirse al mover del Espíritu Santo y dejar que Él guíe cada palabra y cada nota (Juan 4:24).',
               'Con el entendimiento implica prepararse, conocer la letra, cuidar la técnica y expresar el mensaje con claridad (Colosenses 3:16).',
               'Un adorador que canta con el espíritu tiene sensibilidad para percibir lo que Dios quiere hacer en ese momento de la congregación.',
               'Un adorador que canta con entendimiento honra a Dios al cuidar su voz, el mensaje y la excelencia del ministerio.',
-              'Ejemplo: una canción de gozo debe reflejar alegría en el rostro, mientras que una de rendición requiere reverencia y humildad.',
               'Cantar con enfoque evita caer en dos extremos: la improvisación emocional sin dirección o la frialdad mecánica sin vida.',
               'El ministro equilibrado combina pasión y preparación: ensaya, ora, estudia, pero llega al culto abierto a los cambios que el Espíritu pueda indicar.',
               'Aplicación: Ora antes de servir pidiendo sensibilidad (Salmo 19:14).',
