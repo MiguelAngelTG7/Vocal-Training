@@ -339,16 +339,15 @@ function App() {
         {/* Tarjetas de Día 2 */}
   {[
           {
-            title: 'Devocional Día 2 – Hacedlo Bien',
+            title: 'Devocional día 2 – Efesios 5:19: La doble dimensión de la alabanza',
             items: [
-              'Texto clave: “Cantad a Jehová cántico nuevo; hacedlo bien, tañendo con júbilo.” – Salmo 33:3',
-              'El salmista nos recuerda que la alabanza no debe hacerse de cualquier manera, sino con excelencia y alegría. Dios es digno de lo mejor, y eso incluye la disposición de nuestro corazón y la preparación de nuestro canto.',
-              '“Hacedlo bien” implica cuidar tanto lo espiritual como lo técnico. Espiritualmente, cantar con un corazón limpio, sincero y lleno de gratitud. Técnicamente, afinar, vocalizar, ensayar y dar lo mejor de nuestro instrumento. Ambas dimensiones se complementan: la excelencia técnica sin un corazón rendido se vuelve espectáculo; la pasión sin preparación puede ser un tropiezo.',
-              'Ejemplo práctico: un adorador que llega puntual, ora, calienta su voz y se conecta con la congregación está aplicando este principio. Otro que canta una canción alegre debe reflejar gozo en su rostro y energía en su expresión, pues la Biblia dice que debemos hacerlo con júbilo.',
-              'El equilibrio está en entender que la excelencia en la alabanza no es para lucirse, sino para guiar al pueblo de Dios a adorar con libertad y claridad.',
-              'Aplicación: Antes de cada servicio, revisa tu actitud y tu preparación. Pregúntate: “¿Estoy ofreciendo lo mejor de mí al Señor?”.',
-              'Frase inspiradora:',
-              '“La excelencia en la alabanza no es perfección humana, sino ofrecerle a Dios lo mejor de nuestro corazón y de nuestro esfuerzo.”'
+              'Texto clave:',
+              '“Hablando entre vosotros con salmos, himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones.” – Efesios 5:19',
+              'Este pasaje revela que la adoración congregacional tiene dos direcciones inseparables: la horizontal, cuando “hablamos entre nosotros” edificándonos y animándonos mutuamente con el contenido de los cánticos; y la vertical, cuando “cantamos y alabamos al Señor en nuestros corazones” como expresión íntima de devoción a Dios. Un ministro de alabanza debe ser consciente de que su canto no solo llega al cielo, sino también a los oídos y corazones de quienes le rodean (Hebreos 10:24–25).',
+              'En la práctica, esto significa que la letra debe ser teológicamente correcta y edificante, y que la interpretación debe ser clara para que la congregación entienda y participe. También significa que, aunque usemos pistas o instrumentos, el corazón debe estar enfocado en agradar a Dios, no en la técnica por sí sola. Por ejemplo, una canción sobre el poder de Cristo cantada con autoridad anima a la congregación y exalta a Dios al mismo tiempo.',
+              'Aplicación personal: Antes de cantar, pregúntate: “¿Lo que voy a ministrar edificará a la iglesia y honrará a Dios?”. El equilibrio entre la excelencia técnica y la pasión espiritual asegura que nuestra alabanza sea completa, impactando tanto horizontal como verticalmente.',
+              'Ejemplo de frase inspiradora:',
+              '“La verdadera adoración es un puente que une el corazón del hombre con el corazón de Dios, y a la vez une unos corazones con otros.” – Adaptación pastoral.'
             ]
           },
           {
@@ -394,16 +393,6 @@ function App() {
               'Ensayo práctico con pista en grupo.',
               'Ejercicio de dirección: cada alumno dirige una estrofa y recibe feedback.',
               'Simulación de escenario con distracciones (micrófono bajo, pista cortada, etc.).'
-            ]
-          },
-          {
-            title: 'Buenas Prácticas',
-            items: [
-              'Los ministerios de alabanza con mayor impacto destacan por unir técnica, vida espiritual, testimonio e influencia social.',
-              'Técnico: Ensayan constantemente, cuidan afinación, armonización y preparan bien sus canciones (ej. Hillsong Worship).',
-              'Espiritual: Mantienen oración y devocional, entendiendo que ministrar es servir a Dios (ej. Miel San Marcos).',
-              'Testimonio: Viven con integridad y coherencia dentro y fuera del escenario (ej. Christine D’Clario).',
-              'Social: Apoyan causas misioneras y proyectos comunitarios (ej. Planetshakers).'
             ]
           },
           {
