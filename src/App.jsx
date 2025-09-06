@@ -116,7 +116,7 @@ function App() {
               'Bee Yah*',
               'Mee Ee Yah*',
               'Ha*',
-              'Hm Mee hoo Yah Hum*',
+              'Hm Mee Hoo Yah Hum*',
               'Ha Ha  E-L*',
               'Expansión del Rango Vocal',
               'Atrapa tu Lengua*',
