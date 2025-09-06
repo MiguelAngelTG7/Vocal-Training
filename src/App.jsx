@@ -81,6 +81,7 @@ function App() {
             title: 'Devocional Día 1 – Canta con Enfoque',
             items: [
               'Texto clave: 1 Corintios 14:15',
+              '“¿Qué, pues? Cantaré con el espíritu, pero cantaré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento.”',
               'El apóstol Pablo nos recuerda que cantar debe unir espíritu y entendimiento.',
               'Con el espíritu significa abrirse al mover del Espíritu Santo y dejar que Él guíe cada palabra y cada nota (Juan 4:24).',
               'Con el entendimiento implica prepararse, conocer la letra, cuidar la técnica y expresar el mensaje con claridad (Colosenses 3:16).',
@@ -339,14 +340,15 @@ function App() {
         {/* Tarjetas de Día 2 */}
   {[
           {
-            title: 'Devocional día 2 – Efesios 5:19: La doble dimensión de la alabanza',
+            title: 'Devocional Día 2 – La Doble Dimensión de la Alabanza',
             items: [
               'Texto clave:',
               '“Hablando entre vosotros con salmos, himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones.” – Efesios 5:19',
-              'Este pasaje revela que la adoración congregacional tiene dos direcciones inseparables: la horizontal, cuando “hablamos entre nosotros” edificándonos y animándonos mutuamente con el contenido de los cánticos; y la vertical, cuando “cantamos y alabamos al Señor en nuestros corazones” como expresión íntima de devoción a Dios. Un ministro de alabanza debe ser consciente de que su canto no solo llega al cielo, sino también a los oídos y corazones de quienes le rodean (Hebreos 10:24–25).',
-              'En la práctica, esto significa que la letra debe ser teológicamente correcta y edificante, y que la interpretación debe ser clara para que la congregación entienda y participe. También significa que, aunque usemos pistas o instrumentos, el corazón debe estar enfocado en agradar a Dios, no en la técnica por sí sola. Por ejemplo, una canción sobre el poder de Cristo cantada con autoridad anima a la congregación y exalta a Dios al mismo tiempo.',
+              'Este pasaje revela que la adoración congregacional tiene dos direcciones inseparables: la horizontal, cuando “hablamos entre nosotros” edificándonos y animándonos mutuamente con el contenido de los cánticos; y la vertical, cuando “cantamos y alabamos al Señor en nuestros corazones” como expresión íntima de devoción a Dios.',
+              'Un ministro de alabanza debe ser consciente de que su canto no solo llega al cielo, sino también a los oídos y corazones de quienes le rodean (Hebreos 10:24–25).',
+              'En la práctica, esto significa que la letra debe ser teológicamente correcta y edificante, y que la interpretación debe ser clara para que la congregación entienda y participe. También significa que, aunque usemos pistas o instrumentos, el corazón debe estar enfocado en agradar a Dios, no en la técnica por sí sola.',
+              'Por ejemplo, una canción sobre el poder de Cristo cantada con autoridad anima a la congregación y exalta a Dios al mismo tiempo.',
               'Aplicación personal: Antes de cantar, pregúntate: “¿Lo que voy a ministrar edificará a la iglesia y honrará a Dios?”. El equilibrio entre la excelencia técnica y la pasión espiritual asegura que nuestra alabanza sea completa, impactando tanto horizontal como verticalmente.',
-              'Ejemplo de frase inspiradora:',
               '“La verdadera adoración es un puente que une el corazón del hombre con el corazón de Dios, y a la vez une unos corazones con otros.” – Adaptación pastoral.'
             ]
           },
