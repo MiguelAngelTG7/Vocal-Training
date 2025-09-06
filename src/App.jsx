@@ -81,7 +81,7 @@ function App() {
             title: 'Devocional Día 1 – Canta con Enfoque',
             items: [
               'Texto clave: 1 Corintios 14:15',
-              '“¿Qué, pues? Cantaré con el espíritu, pero cantaré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento.”',
+              '“¿Qué, pues? Cantaré con el espíritu, pero cantaré también con el entendimiento.”',
               'El apóstol Pablo nos recuerda que cantar debe unir espíritu y entendimiento.',
               'Con el espíritu significa abrirse al mover del Espíritu Santo y dejar que Él guíe cada palabra y cada nota (Juan 4:24).',
               'Con el entendimiento implica prepararse, conocer la letra, cuidar la técnica y expresar el mensaje con claridad (Colosenses 3:16).',
